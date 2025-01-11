@@ -1,2 +1,2 @@
 # miRepositorio
-Practica Github
+Practica Github equipo
